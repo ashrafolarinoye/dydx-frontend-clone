@@ -1192,8 +1192,7 @@ textarea::-webkit-input-placeholder, .form--darkblue
 
 .btn-bg--cta--1 {
   background: -webkit-gradient(linear, left bottom, left top, from(#d4ba00), to(#ffdf00));
-  background: -o-linear-gradient(bottom, #d4ba00 0%, #ffdf00 100%);
-  background: linear-gradient(to top, #d4ba00 0%, #ffdf00 100%);
+  background: linear-gradient(248.86deg, #fc9109 10.51%, #fa7202 93.41%);
   -webkit-box-shadow: inset 0 -3px 5px rgba(255, 255, 255, 0.5);
           box-shadow: inset 0 -3px 5px rgba(255, 255, 255, 0.5);
   color: #12141f;
