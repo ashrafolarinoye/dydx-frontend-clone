@@ -2512,6 +2512,7 @@ a.justify-content-between .arrow_right,
 .space--3 {
   padding-top: 4.25rem !important;
   padding-bottom: 4.25rem !important;
+  padding: 5%;
 }
 
 .space--top,
