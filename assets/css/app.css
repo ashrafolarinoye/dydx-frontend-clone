@@ -1068,6 +1068,7 @@ textarea::-webkit-input-placeholder, .form--darkblue
 }
 
 .btn .btn__text {
+  color: white;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -1192,7 +1193,7 @@ textarea::-webkit-input-placeholder, .form--darkblue
 
 .btn-bg--cta--1 {
   background: -webkit-gradient(linear, left bottom, left top, from(#d4ba00), to(#ffdf00));
-  background: linear-gradient(248.86deg, #fc9109 10.51%, #fa7202 93.41%);
+  background: linear-gradient(248.86deg, #296ffa 10.51%, #6717ce 93.41%);
   -webkit-box-shadow: inset 0 -3px 5px rgba(255, 255, 255, 0.5);
           box-shadow: inset 0 -3px 5px rgba(255, 255, 255, 0.5);
   color: #12141f;
@@ -8080,7 +8081,7 @@ body.boxed-layout.zig-zag-wool {
 
 .theme-gradient-1 .btn-bg--primary[class*="bg-color--primary-opacity-"]::before, .theme-gradient-1 .btn-bg--primary, .theme-gradient-1 .btn-bg--primary.btn-bg--primary--05::after, .theme-gradient-1 .preloader .blobs .btn-bg--primary.blob-center, .preloader .blobs .theme-gradient-1 .btn-bg--primary.blob-center, .theme-gradient-1 .btn-bg--primary.form--v8:after, .theme-gradient-1 .ico-progress--v2 .btn-bg--primary.ico-progress__stages:after, .ico-progress--v2 .theme-gradient-1 .btn-bg--primary.ico-progress__stages:after, .theme-gradient-1 .carosuel-slider--v1 .slick-dots .slick-active button.btn-bg--primary, .carosuel-slider--v1 .slick-dots .slick-active .theme-gradient-1 button.btn-bg--primary, .theme-gradient-1 .btn-bg--primary.label-bg--light--200::before, .theme-gradient-1 .pagination .page-item.active .btn-bg--primary.page-link, .pagination .page-item.active .theme-gradient-1 .btn-bg--primary.page-link, .theme-gradient-1 .sticky .btn-bg--primary.article__thumbnail-image::before, .sticky .theme-gradient-1 .btn-bg--primary.article__thumbnail-image::before, .theme-gradient-1 .post-navigation .btn-bg--primary.meta-nav::before, .post-navigation .theme-gradient-1 .btn-bg--primary.meta-nav::before, .theme-gradient-1 .roadmap--v4 .roadmap-item--current .btn-bg--primary.timeline-line:before, .roadmap--v4 .roadmap-item--current .theme-gradient-1 .btn-bg--primary.timeline-line:before, .theme-gradient-1 mark.btn-hover--primary,
 .theme-gradient-1 ins.btn-hover--primary, .theme-gradient-1 .btn-hover--primary.bg-color--primary, .theme-gradient-1 .btn-hover--primary[class*="bg-color--primary-opacity-"]::before, .theme-gradient-1 .btn-hover--primary.btn-bg--primary, .theme-gradient-1 .btn-hover--primary.btn-bg--primary--05::after, .theme-gradient-1 .btn-hover--primary:hover, .theme-gradient-1 .btn-hover--primary.card-hover--bg--primary-shadow.focused, .theme-gradient-1 .preloader .blobs .btn-hover--primary.blob-center, .preloader .blobs .theme-gradient-1 .btn-hover--primary.blob-center, .theme-gradient-1 .preloader .btn-hover--primary.blob, .preloader .theme-gradient-1 .btn-hover--primary.blob, .theme-gradient-1 .btn-hover--primary.form--v8:after, .theme-gradient-1 .ico-progress--v2 .btn-hover--primary.ico-progress__stages:after, .ico-progress--v2 .theme-gradient-1 .btn-hover--primary.ico-progress__stages:after, .theme-gradient-1 .btn-hover--primary.decor, .theme-gradient-1 .carosuel-slider--v1 .slick-dots .slick-active button.btn-hover--primary, .carosuel-slider--v1 .slick-dots .slick-active .theme-gradient-1 button.btn-hover--primary, .theme-gradient-1 .btn-hover--primary.label-bg--light--200::before, .theme-gradient-1 .pagination .page-item.active .btn-hover--primary.page-link, .pagination .page-item.active .theme-gradient-1 .btn-hover--primary.page-link, .theme-gradient-1 .sticky .btn-hover--primary.card, .sticky .theme-gradient-1 .btn-hover--primary.card, .theme-gradient-1 .sticky .btn-hover--primary.article__thumbnail-image::before, .sticky .theme-gradient-1 .btn-hover--primary.article__thumbnail-image::before, .theme-gradient-1 .widget_calendar tbody a.btn-hover--primary, .widget_calendar tbody .theme-gradient-1 a.btn-hover--primary, .theme-gradient-1 .post-navigation .btn-hover--primary.meta-nav::before, .post-navigation .theme-gradient-1 .btn-hover--primary.meta-nav::before, .theme-gradient-1 .btn-hover--primary.navbar-sticky--moved-up.sticky-bg-color--primary, .theme-gradient-1 .roadmap--v4 .roadmap-item--current .btn-hover--primary.timeline-line:before, .roadmap--v4 .roadmap-item--current .theme-gradient-1 .btn-hover--primary.timeline-line:before {
-  background: #5b7fec;
+  background: linear-gradient(248.86deg, #296ffa 10.51%, #6717ce 93.41%);
 }
 
 .theme-gradient-2 mark,
