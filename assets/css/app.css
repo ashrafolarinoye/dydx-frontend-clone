@@ -6462,7 +6462,7 @@ body.boxed-layout .switchable__image {
     max-width: 120px;
   }
   .navbar-brand img {
-    max-width: 100%;
+    max-width: 50%;
   }
 }
 
